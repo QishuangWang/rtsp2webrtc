@@ -10,8 +10,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "kurento-client": "^6.16.0",
+    "kurento-utils": "^6.16.0",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "webrtc-adapter": "^7.7.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
